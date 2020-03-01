@@ -5,5 +5,5 @@ You need to use given repo to create your music list.
 ### Student Details
 
 - **Student ID**: U1810243
-- **Student Name**: Sarvinoz 
+- **Student Name**: Sarvinoz Pardaeva
 - **Section Number**: 001
